@@ -5,3 +5,11 @@ Ambiguity sets of probability distributions are used to hedge against uncertaint
 For more info and the technical details, please refer to the following manuscript:
 
 Francesca Boso, Dimitris Boskos, Jorge Cortés, Sonia Martínez, Daniel M. Tartakovsky. "Dynamics of Data-driven Ambiguity Sets for Hyperbolic Conservation Laws with Uncertain Inputs". Currently under review but available at: https://arxiv.org/abs/2003.06735
+
+
+@article{boso-2020-dynamics,
+title = {Dynamics of Data-driven Ambiguity Sets for Hyperbolic Conservation Laws with Uncertain Inputs},
+author = {Boso, Francesca and Boskos, Dimitris and Cortés, Jorge and Martínez, Sonia and Tartakovsky, Daniel M.},
+journal = {arXiv preprint arXiv:2003.06735}
+year = {2020}
+}
