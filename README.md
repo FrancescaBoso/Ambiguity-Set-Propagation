@@ -6,6 +6,7 @@ For more info and the technical details, please refer to the following manuscrip
 
 Francesca Boso, Dimitris Boskos, Jorge Cortés, Sonia Martínez, Daniel M. Tartakovsky. "Dynamics of Data-driven Ambiguity Sets for Hyperbolic Conservation Laws with Uncertain Inputs". Currently under review but available at: https://arxiv.org/abs/2003.06735
 
+## Citation
 
 @article{boso-2020-dynamics,
 title = {Dynamics of Data-driven Ambiguity Sets for Hyperbolic Conservation Laws with Uncertain Inputs},
